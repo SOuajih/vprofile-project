@@ -1,10 +1,10 @@
-####
+######
 ### Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
 
-### Technologies 
+### Technologies
 - Spring MVC
 - Spring Security
 - Spring Data JPA
@@ -12,7 +12,7 @@
 - JSP
 - MySQL
 ### Database
-Here,we used Mysql DB 
+Here,we used Mysql DB
 MSQL DB Installation Steps for Linux ubuntu 14.04:
 - $ sudo apt-get update
 - $ sudo apt-get install mysql-server
